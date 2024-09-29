@@ -16,8 +16,8 @@
 <div class="row">
   <div class="Home">
     <h1>Home</h1>
-    <img src="blob:https://photos.onedrive.com/75497774-2bed-4fa8-abf3-c2bf7d2a8dc0" alt = "Mason Gilbert">
-    <p>Hello, welcome to my portfolio! I hope you enjoy your time here to learn more about me!</p>
+    <img src="https://www.appily.com/sites/default/files/styles/max_1200/public/images/hero/college/140164_hero.jpg?itok=ydJIm3BE" alt = "KSU">
+    <p>Hello, welcome to my portfolio! I hope you enjoy your time here to learn more about me and my journey at Kennesaw State University!</p>
     </main>
   </body>
 </html>
