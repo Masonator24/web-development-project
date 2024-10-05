@@ -8,8 +8,8 @@
     <header>
       <h1></h1>
       <nav>
-        <a href="about.html">About</a>
-        <a href="contact.html">Contact</a>
+        <a href="about.md">About</a>
+        <a href="contact.md">Contact</a>
       </nav>
     </header>
     <main>
