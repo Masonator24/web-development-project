@@ -1,5 +1,6 @@
 # web-development-project
 <!DOCTYPE html>
+<link rel = "stylesheet" type="text.css"
 <html>
   <head>
     <title>My Portfolio</title>
