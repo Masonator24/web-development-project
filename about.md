@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<link rel = "stylesheet" type="text/css" href = "style.css">
 <html>
   <head>
    <h1>My Portfolio</h1>
+    <link rel = "stylesheet" type="text/css" href = "style.css">
   </head>
   <body>
     <header>
