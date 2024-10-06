@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
   <head>
-   <h1>My Portfolio</h1>
   <link href = "css/style.css" type = "text/css" rel="stylesheet" />
   </head>
   <body>
     <header>
+      <h1>My Portfolio</h1>
       <nav>
         <a href="about.md">About</a>
         <a href="contact.md">Contact</a>
