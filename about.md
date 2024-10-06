@@ -13,7 +13,7 @@
     </header>
     <main>
       <div class="row">
-        <div class="About">
+        <div class="about">
       <h1>About</h1>
       <div class = "profile">
       <a href="https://imgbb.com/"><img src="https://i.ibb.co/TTZPRFZ/x.jpg" alt="x" border="0"></a>
