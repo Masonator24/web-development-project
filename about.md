@@ -2,7 +2,7 @@
 <html>
   <head>
    <h1>My Portfolio</h1>
-    <link rel = "stylesheet" type="text/css" href = "style.css"/>
+    <link rel = "stylesheet" type="text/css" href = "web-development-project/css/style.css"/>
   </head>
   <body>
     <header>
