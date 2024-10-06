@@ -1,6 +1,6 @@
 # web-development-project
 <!DOCTYPE html>
-<link rel = "stylesheet" type="text/css" href = "style.css">
+<link rel = "stylesheet" type="text/css" href = "style.css"/>
 <html>
   <head>
      <h1>My Portfolio</h1>
