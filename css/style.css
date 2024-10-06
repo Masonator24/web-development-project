@@ -1,1 +1,16 @@
+body {
+  background-color: #B0C4DE;
+}
 
+.profile {
+  width: 150px;
+  height: auto;
+  border-radius: 50%;
+  margin-right: 20px;
+}
+p, .text-profile {
+  display: flex;
+  align-items: center;
+  margin: 20px;
+  color: Azure;
+}
