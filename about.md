@@ -12,8 +12,6 @@
       </nav>
     </header>
     <main>
-      <div class="row">
-        <div class="about">
       <h1>About</h1>
       <div class="profile">
       <a href="https://imgbb.com/"><img src="https://i.ibb.co/TTZPRFZ/x.jpg" alt="x" border="0"></a>
@@ -23,8 +21,6 @@
         <p>Before I started attending KSU, I attended Allatoona High School. I always strived to exceed in all of my classes, paving the way for my future. In order to further that goal, I decided to take advantage of the free Dual Enrollment Plan. This would allow for me to get ahead on my future classes at KSU, allowing for me to possibly graduate a year early and get a feel on college life.</p>
         <p>By the time I graduated in 2023, I was well ahead of my classes and get a jump start. So far, I am enjoying my time here at KSU. I am glad that I have the opportunity to learn on this campus as my journey continues to grow each day!</p>
             </div>
-      </div>
-    </div>
   </main>
   </body>
 </html>
