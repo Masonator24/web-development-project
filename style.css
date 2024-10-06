@@ -12,5 +12,11 @@
   color: Azure;
 }
 body {
-  color:Gray;
+  background-color:Gray;
+}
+p {
+  display: flex;
+    align-items: center;
+    margin: 20px;
+  color: Azure;
 }
