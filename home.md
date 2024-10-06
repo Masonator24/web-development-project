@@ -7,7 +7,6 @@
   </head>
   <body>
     <header>
-      <h1></h1>
       <nav>
         <a href="about.md">About</a>
         <a href="contact.md">Contact</a>
