@@ -1,3 +1,6 @@
+body {
+  background-color: Gray;
+}
 
 .profile {
   width: 150px;
@@ -5,18 +8,11 @@
   border-radius: 50%;
   margin-right: 20px;
 }
-.text-profile {
+p, .text-profile {
   display: flex;
-    align-items: center;
-    margin: 20px;
+  align-items: center;
+  margin: 20px;
   color: Azure;
 }
-body {
-  background-color: #F0FFFF;
-}
-p {
-  display: flex;
-    align-items: center;
-    margin: 20px;
-  color: Azure;
-}
+
+
